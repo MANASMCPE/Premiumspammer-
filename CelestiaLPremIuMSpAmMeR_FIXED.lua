@@ -726,7 +726,7 @@ end
 local ck
 local function onMouseButton1Click6()
     if setclipboard then
-        setclipboard("https://www.roblox.com/share?code=4b0e644fe1f129408c605d4f578a2dc0&type=Profile&source=ProfileShare&stamp=1785254789683")
+        setclipboard("https://www.roblox.com/users/11416715041/profile")
         ck.Text = "â¨ COPIED TO CLIPBOARD!"
         task.wait(2)
         ck.Text = "ð¤ COPY DEVELOPER PROFILE LINK â¡"
